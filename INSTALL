@@ -1,0 +1,9 @@
+Building Kannacoin
+
+See doc/readme-qt.rst for instructions on building Kannacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Kannacoin.
+
+See doc/build-*.txt for instructions on building kannacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Kannacoin.
